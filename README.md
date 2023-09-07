@@ -13,6 +13,7 @@
 - :zap: In my free time, I have quality time with my family and read technical articles to keep on acquiring Python skills. Currently enrolled HTML/CSS/Javascript module of Software University Softuni
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sonya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonya-stefanova-haralambieva-41286537/)
 
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
