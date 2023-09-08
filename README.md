@@ -36,3 +36,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sonya-stefanova)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonya-stefanova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<i>PS: I'm not pushing projects in GitHub actively, even though I learn every day!</i>
+
