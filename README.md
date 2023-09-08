@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me : I am Sonya Stefanova - Haralambieva
+### :woman_technologist: About Me : I am Sonya Stefanova - Haralambieva (Python Enthusiast)
 - :muscle: My strengths are -> a problem-solver, very punctual, ever-learning and self-developing person.
 
 - :telescope: I’m working as a Search Engine Optimisation Specialist and as such professional I've gained experience in On-site/Off-site Optimisation, Content Marketing, WordPress, HTML & CSS fields, Google Analytics, Console, Ahrefs, Semrush, etc., throughout the years.
