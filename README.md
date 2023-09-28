@@ -34,6 +34,7 @@
 
 <div>
 :seedling: <u>Currently Learning at Softuni:</u> <strong>HTML/CSS/JavaScript</strong>
+:seedling: Web Scraping is another field I am interested in and on my learning agenda.
 </div>
 
 ### :fire: My Stats :
