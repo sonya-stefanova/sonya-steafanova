@@ -1,6 +1,6 @@
 <h1>
   Hello All!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src=["https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"](https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e478m68zpix8f7y7kurycgorru6ooq2ru8z8q9dzy4i&ep=v1_gifs_search&rid=giphy.gif&ct=g)/>
 </h1>
 
 <div align="center">
@@ -38,7 +38,6 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sonya-stefanova)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonya-stefanova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <i><b>PS: I'm not pushing projects in GitHub actively, even though I learn every day!</b></i>
