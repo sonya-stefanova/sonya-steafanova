@@ -1,10 +1,9 @@
 <h1>
   Hello All!
-  <img src=["https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"](https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e478m68zpix8f7y7kurycgorru6ooq2ru8z8q9dzy4i&ep=v1_gifs_search&rid=giphy.gif&ct=g)/>
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif" width="600" height="300"/>
+  <img src=["https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"]/>
 </div>
 
 ### :woman_technologist: About Me : I am Sonya Stefanova - Haralambieva (Python Enthusiast)
