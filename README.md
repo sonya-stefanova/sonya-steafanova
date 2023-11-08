@@ -28,6 +28,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="Postgres" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS"  alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" title="Redis Cache"  alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JS-Dark.svg" title="Redis Cache"  alt="JS" width="40" height="40"/>&nbsp;
 </div>
 
 <div>
