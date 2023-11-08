@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src=["https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"]/>
+  <iframe src="https://giphy.com/embed/coxQHKASG60HrHtvkt" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
 ### :woman_technologist: About Me : I am Sonya Stefanova - Haralambieva (Python Enthusiast)
