@@ -8,12 +8,10 @@
 ### :woman_technologist: About Me : I am Sonya Stefanova - Haralambieva (Python Enthusiast)
 - :muscle: My strengths are -> a problem-solver, very punctual, ever-learning and self-developing person.
 
-- :telescope: I’m working as a Search Engine Optimisation Specialist and as such professional I've gained experience in On-site/Off-site Optimisation, Content Marketing, WordPress, HTML & CSS fields, Google Analytics, Console, Ahrefs, Semrush, etc., throughout the years.
+- :telescope: Previous experience: Search Engine Optimisation Specialist and as such professional I've gained experience in On-site/Off-site Optimisation, Content Marketing, WordPress, HTML & CSS fields, Google Analytics, Console, Ahrefs, Semrush, etc., throughout the years.
 - :family_man_man_girl_girl: During my maternity leave, I was a Bulgarian administrator for an online casino & gaming application.
-- :school: I've been working in the Bulgarian Ships Hydrodynamics Centre before)
-- :woman_student: Financial Bachelor and Bank Management Master
-- :seedling: In my free time, I enjoy learning and working on developing Python and Django web projects.
-- :zap: Currently enrolled in HTML/CSS/Javascript module of Software University Softuni
+- :woman_student: Finance Bachelor and Bank Management Master / Completed the SoftUni Python Backend and Frontend Technology path
+- :zap: Currently enrolled in Databricks/Azure/PySpark Udemy Course; With interests in Data analysis, engineering, and data science;
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sonya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonya-stefanova-haralambieva-41286537/)
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -32,7 +30,6 @@
 </div>
 
 <div>
-:seedling: <u>Currently Learning at Softuni:</u> <strong>HTML/CSS/JavaScript</strong><br>
 :seedling: <strong>Web Scraping</strong> is another field I am interested in and on my learning agenda.
 </div>
 
