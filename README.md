@@ -6,12 +6,11 @@
 <img src="https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e478m68zpix8f7y7kurycgorru6ooq2ru8z8q9dzy4i&ep=v1_gifs_search&rid=giphy.gif&ct=g"></div>
 
 ### :woman_technologist: About Me : I am Sonya Stefanova - Haralambieva (Python Enthusiast)
-- :muscle: My strengths are -> a problem-solver, very punctual, ever-learning and self-developing person.
+- :muscle: Strenghts & Soft skills -> a problem-solver, punctual, tireless learner
 
 - :telescope: Previous experience: Search Engine Optimisation Specialist and as such professional I've gained experience in On-site/Off-site Optimisation, Content Marketing, WordPress, HTML & CSS fields, Google Analytics, Console, Ahrefs, Semrush, etc., throughout the years.
-- :family_man_man_girl_girl: During my maternity leave, I was a Bulgarian administrator for an online casino & gaming application.
-- :woman_student: Finance Bachelor and Bank Management Master / Completed the SoftUni Python Backend and Frontend Technology path
-- :zap: Currently enrolled in Databricks/Azure/PySpark Udemy Course; With interests in Data analysis, engineering, and data science;
+- :woman_student: Finance Bachelor and Bank Management Master / SoftUni Python Backend and Frontend Technology path completed
+- :zap: Currently enrolled in Databricks/Azure/PySpark Udemy Course; With interests in Data analysis, data engineering, and data science;
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sonya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonya-stefanova-haralambieva-41286537/)
 
 ### :hammer_and_wrench: Languages and Tools :
