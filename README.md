@@ -23,6 +23,10 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS"  alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" title="Redis Cache"  alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JS"  alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/azure-original-wordmark.svg" title="Azure"  alt="Azure" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/azure-original-wordmark.svg" title="Azure"  alt="Azure" width="40" height="40"/>&nbsp;
+
+  
 </div>
 
 ### :fire: My Stats :
