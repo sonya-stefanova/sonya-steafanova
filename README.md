@@ -6,11 +6,8 @@
 <img src="https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e478m68zpix8f7y7kurycgorru6ooq2ru8z8q9dzy4i&ep=v1_gifs_search&rid=giphy.gif&ct=g"></div>
 
 ### :woman_technologist: About Me : I am Sonya Stefanova - Haralambieva (Python Enthusiast)
-- :muscle: Strenghts & Soft skills -> a problem-solver, punctual, tireless learner
-
-- :telescope: Previous experience: Search Engine Optimisation Specialist and as such professional I've gained experience in On-site/Off-site Optimisation, Content Marketing, WordPress, HTML & CSS fields, Google Analytics, Console, Ahrefs, Semrush, etc., throughout the years.
+- :telescope: Previous experience: Search Engine Optimisation Specialist & Marketing Expert
 - :woman_student: Finance Bachelor and Bank Management Master / SoftUni Python Backend and Frontend Technology path completed
-- :zap: Currently enrolled in Databricks/Azure/PySpark Udemy Course; With interests in Data analysis, data engineering, and data science;
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sonya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonya-stefanova-haralambieva-41286537/)
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -26,10 +23,6 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS"  alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" title="Redis Cache"  alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JS"  alt="JS" width="40" height="40"/>&nbsp;
-</div>
-
-<div>
-:seedling: <strong>Web Scraping</strong> is another field I am interested in and on my learning agenda.
 </div>
 
 ### :fire: My Stats :
