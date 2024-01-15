@@ -39,6 +39,12 @@
     <th>Assessment</th>
     <th>Year</th>
   </tr>
+    <tr>
+    <td>JavaScript </td>
+     <td><a href="https://www.udemy.com/certificate/UC-29865d1c-fddc-4123-af2c-69f5f3225de3/">Certificate</a></td>
+    <td>Formula1 Project</td>
+    <td>2023</td>
+  </tr>
   <tr>
     <td>Python Web Framework</td>
      <td><a href="https://github.com/sonya-stefanova/DJANGO-BLOG-APP">Project Link to Github</a></td>
