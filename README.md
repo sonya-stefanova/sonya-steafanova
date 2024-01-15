@@ -40,7 +40,7 @@
     <th>Year</th>
   </tr>
     <tr>
-    <td>JavaScript </td>
+    <td>Azure Databricks - PySpark/SQL</td>
      <td><a href="https://www.udemy.com/certificate/UC-29865d1c-fddc-4123-af2c-69f5f3225de3/">Certificate</a></td>
     <td>Formula1 Project</td>
     <td>2023</td>
