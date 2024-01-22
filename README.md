@@ -7,7 +7,7 @@
 
 ### :woman_technologist: About Me : I am Sonya Stefanova - Haralambieva (Python Enthusiast)
 - :telescope: Previous experience: Search Engine Optimisation Specialist & Marketing Expert
-- :telescope: with interests in Python WEB and Data Engineering
+- :telescope: with interests in Python WEB and Data Engineering and Analysis
 - :woman_student: Finance Bachelor and Bank Management Master / SoftUni Python Backend and Frontend Technology path completed
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sonya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonya-stefanova-haralambieva-41286537/)
 
