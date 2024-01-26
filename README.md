@@ -43,7 +43,7 @@
     <td>Data Analysis | SQL,Tableau,Power BI & Excel 
 </td>
      <td><a href="https://www.udemy.com/certificate/UC-e9f917e7-d95f-4b1f-894d-9d91efdead9a/">Certificate</a></td>
-    <td>Projects:https://public.tableau.com/app/profile/sonya.stefanova.haralambieva/vizzes </td>
+    <td><a href="https://public.tableau.com/app/profile/sonya.stefanova.haralambieva/vizzes">Projects</a></td>
     <td>2024</td>
   </tr>
     <tr>
