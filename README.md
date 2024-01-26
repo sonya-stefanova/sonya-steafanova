@@ -39,6 +39,13 @@
     <th>Assessment</th>
     <th>Year</th>
   </tr>
+  <tr>
+    <td>Data Analysis | SQL,Tableau,Power BI & Excel 
+</td>
+     <td><a href="https://www.udemy.com/certificate/UC-e9f917e7-d95f-4b1f-894d-9d91efdead9a/">Certificate</a></td>
+    <td>Projects:https://public.tableau.com/app/profile/sonya.stefanova.haralambieva/vizzes </td>
+    <td>2024</td>
+  </tr>
     <tr>
     <td>Azure Databricks - PySpark/SQL</td>
      <td><a href="https://www.udemy.com/certificate/UC-29865d1c-fddc-4123-af2c-69f5f3225de3/">Certificate</a></td>
