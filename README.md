@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e478m68zpix8f7y7kurycgorru6ooq2ru8z8q9dzy4i&ep=v1_gifs_search&rid=giphy.gif&ct=g"></div>
 
-### :woman_technologist: About Me : I am Sonya Stefanova - Haralambieva (Python Enthusiast)
+### :woman_technologist: About Me : I am Sonya Stefanova - Haralambieva (Python & Data Enthusiast)
 - :telescope: Previous experience: Search Engine Optimisation Specialist & Marketing Expert
 - :telescope: with interests in Python WEB and Data Engineering and Analysis
 - :woman_student: Finance Bachelor and Bank Management Master / SoftUni Python Backend and Frontend Technology path completed
