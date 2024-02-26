@@ -39,6 +39,13 @@
     <th>Assessment</th>
     <th>Year</th>
   </tr>
+   <tr>
+    <td>Python Data Analysis for Excel: Black Friday Sales Projects 
+</td>
+     <td><a href="https://www.udemy.com/certificate/UC-c793cc5f-eec4-44f5-aff7-08a6f9665cc2/">Certificate</a></td>
+    <td><a href="https://github.com/sonya-stefanova/Python-Data-Analysis-For-Excel-Black-Friday-Sales-Project-">Black Friday Python BI Project</a></td>
+    <td>02.2024</td>
+  </tr>
   <tr>
     <td>Data Analysis | SQL,Tableau,Power BI & Excel 
 </td>
