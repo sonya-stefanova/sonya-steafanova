@@ -34,16 +34,16 @@
 <div>
 <table>
   <tr>
-    <td>Perl Basics </td>
-    <td><a href="[https://softuni.bg/certificates/certificates/converttoimage/159268?code=8ae628f2)https://softuni.bg/certificates/certificates/converttoimage/159268?code=8ae628f2](https://udemy-certificate.s3.amazonaws.com/image/UC-551c5f3f-7790-49d5-b344-7887f81558de.jpg?v=1710600623000)">Certificate</a></td>
-    <td><a href="https://github.com/sonya-stefanova/perl">List of courses</a></td>
-    <td>2024</td>
-  </tr>
-  <tr>
     <th>Python Course</th>
     <th>Python Certificate</th>
     <th>Assessment</th>
     <th>Year</th>
+  </tr>
+  <tr>
+    <td>Perl Basics </td>
+    <td><a href="[https://softuni.bg/certificates/certificates/converttoimage/159268?code=8ae628f2)https://softuni.bg/certificates/certificates/converttoimage/159268?code=8ae628f2](https://udemy-certificate.s3.amazonaws.com/image/UC-551c5f3f-7790-49d5-b344-7887f81558de.jpg?v=1710600623000)">Certificate</a></td>
+    <td><a href="https://github.com/sonya-stefanova/perl">List of courses</a></td>
+    <td>2024</td>
   </tr>
    <tr>
     <td>Python Data Analysis for Excel: Black Friday Sales Projects 
