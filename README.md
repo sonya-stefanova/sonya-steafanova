@@ -40,6 +40,12 @@
     <th>Assessment</th>
     <th>Year</th>
   </tr>
+    <tr>
+    <td>DAta analytics w/ pandas & numpy </td>
+    <td><a href="https://www.udemy.com/certificate/UC-c9890488-dfc8-4bda-bd74-e13636aeb5fe/">Certificate</a></td>
+    <td><a href="https://github.com/sonya-stefanova/data_analysis_pandas">Jupyter course projects</a></td>
+    <td>2024</td>
+  </tr>
   <tr>
     <td>Perl Basics </td>
     <td><a href="https://udemy-certificate.s3.amazonaws.com/image/UC-551c5f3f-7790-49d5-b344-7887f81558de.jpg?v=1710600623000">Certificate</a></td>
